@@ -32,15 +32,12 @@
                 <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.postimg.cc/02MM9cjT/Simulator-Screenshot-Iphone-14-Pro-2023-10-26-at-16-52-13.png">
             </td>
             <td>
-               <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.postimg.cc/wM3tykVs/Simulator-Screenshot-Iphone-14-Pro-2023-10-26-at-16-52-22.png">
+               <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.postimg.cc/jSkpcnKT/Screenshot-2024-01-05-at-5-55-22-PM.png">
             </td>
         </tr>
         <tr>
             <td>
                 <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.postimg.cc/cJm6Fzkn/Simulator-Screenshot-Iphone-14-Pro-2023-10-26-at-16-52-31.png">
-            </td>
-            <td>
-               <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.postimg.cc/NMjFSxZP/Simulator-Screenshot-Iphone-14-Pro-2023-10-26-at-16-52-43.png">
             </td>
             <td>
               <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://i.postimg.cc/JhmGc8x8/Simulator-Screenshot-Iphone-14-Pro-2023-10-26-at-16-53-02.png">
