@@ -7,7 +7,7 @@
 ## Extra Feautures
 
 - Home Widget(Only-IOS) for better view of Temperature
-- Notification using awesome_notification which is compatible for both IOS & Android which includes advanced actions. Please refer to below Screenshots or Demo Video for better understandability
+- Notification using awesome_notification which is compatible for both IOS & Android which includes advanced actions. Please refer to below Screenshots for better understandability
 
 ## Screens
 
