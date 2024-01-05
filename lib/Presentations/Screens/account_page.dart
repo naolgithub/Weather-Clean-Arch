@@ -55,7 +55,7 @@ class AccountPage extends StatelessWidget {
                           radius: 38.r,
                           backgroundColor: Colors.transparent,
                           backgroundImage: const AssetImage(
-                            'assets/images/profile.jpg',
+                            'assets/images/naol.jpg',
                           ),
                         ),
                       ),
@@ -66,7 +66,7 @@ class AccountPage extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Samuel',
+                          'Naol Abera',
                           style: GoogleFonts.outfit(
                             fontSize: 21.sp,
                             color: Colors.blueGrey.shade900,
@@ -74,7 +74,7 @@ class AccountPage extends StatelessWidget {
                           ),
                         ),
                         Text(
-                          'Flutter Developer',
+                          'ML && Mobile Engineer',
                           style: GoogleFonts.splineSans(
                             fontSize: 17.sp,
                             color: Colors.blueGrey.shade900,
